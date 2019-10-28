@@ -705,5 +705,9 @@ Fighting Style: N/A
 Personality: As befitting to his role as Principal of an academy for heroes, Nezu is an eccentric, polite, and persistent educator. He is quite self-aware of his odd appearance and introduces himself by pointing it out. He can be very long-winded at times when explaining or educating. Nezu composed an entire lecture on his educational theories concerning the balance between hero and instructor, which he happily spoke of over tea with  All Might. His dedication to educating goes as far as assessing villains, especially young ones, and wondering if they could be put on the right path if they were taught, although he admits the naivety of the idea. He is not above putting himself on the front lines, with his focus being the protection of the students. He understands strategies between hero conflicts enough to participate in the debriefing after the invasion. As a result of abuse and mistreatment by humans in the past, Nezu's true character reveals itself whenever he is in combat. He enjoys "toying" with humans. He still carries a grudge over the many experiments he went through, coming off as slightly insane and unpredictable as a result.
 
 
-# Plans for Future Development
-I would like to later on add in the villains and the other classes from U.A. high. Possibly along with other hero schools and Pro heroes.
+# Plans for Future Development i would like to add in:
+ 1. **Villains** 
+ 2. *Other classes from U.A. high* 
+## Possibly along with:
+ > * Other Hero schools 
+ > * Pro heroes
